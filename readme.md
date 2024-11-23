@@ -1,4 +1,4 @@
-# Jokes API
+# Images API
 
 This collection provides a wide range of API for fetching images. It includes multiple endpoints to get a random image, paginated images, and more.
 
